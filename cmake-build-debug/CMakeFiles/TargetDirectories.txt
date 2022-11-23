@@ -1,0 +1,3 @@
+C:/Users/daech/CLionProjects/gitdemo/cmake-build-debug/CMakeFiles/gitdemo.dir
+C:/Users/daech/CLionProjects/gitdemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/daech/CLionProjects/gitdemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
